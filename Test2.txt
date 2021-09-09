@@ -1,0 +1,38 @@
+Script started on Sat Feb  2 20:47:06 2019
+]0;zieli004@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[?1034h[zieli004@empress HW1P1_stack]$ g++ -o client1.out client1.cpp[[[Kpp stack.cpp
+]0;zieli004@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[zieli004@empress HW1P1_stack]$ ./client1.out
+type a postfix expression: 34+
+The result: 7
+]0;zieli004@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[zieli004@empress HW1P1_stack]$ ./client1.out
+type a postfix expression: 345+*
+The result: 27
+]0;zieli004@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[zieli004@empress HW1P1_stack]$ ./client1.out
+type a postfix expression: 722+-
+The result: 3
+]0;zieli004@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[zieli004@empress HW1P1_stack]$ ./client1.out
+type a postfix expression: 34+56++
+The result: 18
+]0;zieli004@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[zieli004@empress HW1P1_stack]$ ./client1.oug++ -o client1.out client1.cpp stack.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./client1.out[K
+type a postfix expression: 12+34*45+-+
+The result: 6
+]0;zieli004@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[zieli004@empress HW1P1_stack]$ ./client1.out
+type a postfix expression: 1234567891234
+An Error has occured. There is too many characters.
+]0;zieli004@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[zieli004@empress HW1P1_stack]$ ./client1.out
+type a postfix expression: +
+An Error has occured. There is too few characters.
+]0;zieli004@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[zieli004@empress HW1P1_stack]$ ./client1.out
+type a postfix expression: 3+
+An Error has occured. There is too few characters.
+]0;zieli004@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[zieli004@empress HW1P1_stack]$ ./client1.out
+type a postfix expression: 3#
+This is an invalid input.
+The result: 3
+]0;zieli004@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[zieli004@empress HW1P1_stack]$ ./client1.out
+type a postfix expression: 2345+
+The result: 9
+,but the expression is incomplete.
+]0;zieli004@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[zieli004@empress HW1P1_stack]$ exit
+exit
+
+Script done on Sat Feb  2 20:49:05 2019
